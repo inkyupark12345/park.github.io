@@ -1,45 +1,80 @@
-# Privacy Policy
+개인정보처리방침i
+ 
+1. 개인정보의 처리 목적
+ 
+Edu Park('Sonic Cyclone 제작자 Edu Park' 이하 ‘Edu Park’)는 다음의 목적을 위하여 개인정보를 처리하고 있으며, 다음의 목적 이외의 용도로는 이용하지 않습니다.
+ 
+고객의 서비스 이용의사 확인
+서비스 제공을 위한 이용자 식별
+ 
+2. 개인정보의 처리 및 보유 기간
+❶ Edu Park는 정보주체로부터 개인정보를 수집할 때 동의 받은 개인정보 보유, 이용기간 또는 법령에 따른 개인정보 보유, 이용기간 내에서 개인정보를 처리, 보유합니다.
+❷ 구체적인 개인정보 처리 및 보유 기간은 다음과 같습니다.
+고객 가입 및 관리 : 회원가입 해지시까지
+ 
+3. 개인정보의 제3자 제공
+ 
+Edu Park는 개인정보를 제3자에게 제공하지 않습니다.
+ 
+4. 개인정보처리 위탁
+ 
+Edu Park는 개인정보 처리업무를 위탁하지 않습니다.
+ 
+5. 정보주체의 권리, 의무 및 그 행사방법 이용자는 개인정보주체로서 다음과 같은 권리를 행사할 수 있습니다.
+ 
+❶ 정보주체는 Edu Park에 대해 언제든지 다음 각 호의 개인정보 보호 관련 권리를 행사할 수 있습니다.
+ 
+개인정보 열람요구
+오류 등이 있을 경우 정정 요구
+삭제요구
+처리정지 요구
+ 
+6. 처리하는 개인정보의 항목 작성
+ 
+Edu Park는 본 앱(Sonic Cyclone)을 통하여는 어떤 정보도 요구하거나 수집하지 않습니다. 다만 App Store를 이용한 서비스 이용의사 확인 및 동의 과정에서 취득될 수 있는 다음의 개인정보 항목에 대해서도 App Store 정하는 절차에 따라 처리합니다.
+ 
+이용자 ID: Play Store가 제공하는 서비스(구글)의 이용자ID입니다.
+이메일: App Store가 제공하는 서비스(구글)에 등록되고 접근이 허락된 이용자 이메일 주소입니다.
+이름: App Store가 제공하는 서비스에 등록된 이용자명, 별칭입니다.
+ 
+7. 개인정보의 파기
+ 
+Edu Park는 원칙적으로 획득한 개인정보 처리목적이 달성된 경우에는 지체없이 해당 개인정보를 파기합니다. 파기의 절차, 기한 및 방법은 다음과 같습니다.
+ 
+이용자가 서비스 이용 중지 및 개인정보의 삭제요구 의사를 밝히면 지제없이 관련된 모든 정보를 제거합니다.
+ 
+이용자의 개인정보는 개인정보의 보유기간이 경과된 경우에는 보유기간의 종료일로부터 5일 이내에, 개인정보의 처리 목적 달성, 해당 서비스의 폐지, 사업의 종료 등 그 개인정보가 불필요하게 되었을 때에는 개인정보의 처리가 불필요한 것으로 인정되는 날로부터 5일 이내에 그 개인정보를 파기합니다.
+ 
+8. 개인정보의 안전성 확보 조치
+ 
+Edu Park는 개인정보보호법 제29조에 따라 다음과 같이 안전성 확보에 필요한 기술적/관리적 및 물리적 조치를 하고 있습니다.
+ 
+개인정보 취급 직원의 최소화 및 교육: 개인정보를 취급하는 직원을 지정하고 담당자에 한정시켜 최소화 하여 개인정보를 관리하는 대책을 시행하고 있습니다.
+ 
+내부관리계획의 수립 및 시행: 개인정보의 안전한 처리를 위하여 내부관리계획을 수립하고 시행하고 있습니다.
+ 
+해킹 등에 대비한 기술적 대책: Edu Park는 해킹이나 컴퓨터 바이러스 등에 의한 개인정보 유출 및 훼손을 막기 위하여 보안프로그램을 설치하고 주기적인 갱신·점검을 하며 외부로부터 접근이 통제된 구역에 시스템을 설치하고 기술적/물리적으로 감시 및 차단하고 있습니다.
+ 
+개인정보의 암호화: Edu Park는 비밀번호 등 암호화가 요구되는 어떠한 개인정보도 수집, 보관하지 않습니다. 서비스 운영에 필요한 정보는 암호화된 상태로 관리됩니다.
+ 
+개인정보에 대한 접근 제한: 개인정보를 처리하는 데이터베이스시스템에 대한 접근권한의 부여, 변경, 말소를 통하여 개인정보에 대한 접근통제를 위하여 필요한 조치를 하고 있으며 침입차단시스템을 이용하여 외부로부터의 무단 접근을 통제하고 있습니다.
+ 
+9. 개인정보 보호책임자 작성
+ 
+❶ Edu Park는 개인정보 처리에 관한 업무를 총괄해서 책임지고, 개인정보 처리와 관련한 정보주체의 불만처리 및 피해구제 등을 위하여 아래와 같이 개인정보 보호책임자를 지정하고 있습니다.
+ 
+▶ 개인정보 보호책임 및 관리 주체
+ 
+주체
+서비스 운영자(책임자: Edu Park)
+ 
+연락처
+flytozzz@naver.com
+ 
+❷ 정보주체께서는 Edu Park의 서비스를 이용하시면서 발생한 모든 개인정보 보호 관련 문의, 불만처리, 피해구제 등에 관한 사항을 개인정보 보호책임자에게 문의하실 수 있습니다. Edu Park는 정보주체의 문의에 대해 지체 없이 답변 및 처리해 드릴 것입니다.
+ 
+10. 개인정보 처리방침 변경
+ 
+이 개인정보처리방침은 시행일로부터 적용되며, 법령 및 방침에 따른 변경내용의 추가, 삭제 및 정정이 있는 경우에는 변경사항의 시행 7일 전부터 공지사항을 통하여 고지할 것입니다.
+ 
 
-Last updated: [Date]
-
-## Introduction
-
-[Your App Name] ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application (the "App").
-
-## Information We Collect
-
-### Personal Information
-We may collect personally identifiable information, such as:
-- Email address
-- First name and last name
-- Device information
-- Usage data
-
-### Non-Personal Information
-We may also collect non-personal information that does not identify you, including:
-- App usage statistics
-- Device performance data
-- Crash reports
-
-## How We Use Your Information
-
-We use the information we collect to:
-- Provide and maintain the App
-- Notify you about changes to our App
-- Provide customer support
-- Monitor usage of the App
-- Detect, prevent and address technical issues
-
-## Data Security
-
-We use commercially acceptable means to protect your personal information. However, no method of transmission over the internet or electronic storage is 100% secure.
-
-## Changes to This Privacy Policy
-
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last updated" date.
-
-## Contact Us
-
-If you have any questions about this Privacy Policy, please contact us:
-- By email: [Your Email]
-- By visiting this page on our website: [Your Website URL]
